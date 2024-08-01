@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyNotes</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate us</string>
+    <string name="app_id">ca-app-pub-7529421639323510~2021690657</string>
+    <string name="banner_add_unit_id">ca-app-pub-7529421639323510/6427839526</string>
+    <string name="inter_add_unit_id">ca-app-pub-7529421639323510/6627165981</string>
+</resources>
